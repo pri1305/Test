@@ -1,0 +1,5 @@
+<project name="Test" default="">
+	<target name="test">
+	<echo message="this is test.xml"/>
+	</target>
+</project>
